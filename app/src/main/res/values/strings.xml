@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DurationPicker</string>
+    <string name="title_activity_main">DurationPicker Example</string>
+</resources>
