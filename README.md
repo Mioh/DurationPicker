@@ -6,7 +6,7 @@ Material Design duration picker for Android
 **How to**
 
 1. Let an activity implement the interface `DurationPickerFragment.Listener`
-2. Specify what metric should be shown with `DurationPickerFragment.setMetrics()` after instantiating the date picker object
+2. Specify what metric should be shown with `DurationPickerFragment.setMetrics()`
 3. Define the `onDurationPickerResult()` method to use the result
 4. Rock and Roll!
 
