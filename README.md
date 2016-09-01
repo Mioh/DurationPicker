@@ -1,4 +1,4 @@
-# DurationPicker
+## DurationPicker
 Material Design duration picker for Android
 
 ![alt tag](https://raw.githubusercontent.com/mioh/DurationPicker/master/DurationPicker_Screenshot.png)
